@@ -1,4 +1,4 @@
-# DRAWING PROGRAM BY TIM
+
 # main.py file (RUN THIS)
 # Description: This program draws a grid of 600, 600 with a given
 # pixel size/rows and cols. The user can then interact with the grid
